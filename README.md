@@ -12,4 +12,4 @@ LinkedIn AI Assistant is a Chrome extension that enhances your LinkedIn experien
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aj4manu/linkedinai.git
+   git clone https://github.com/ajaycyril/linkedinai.git
